@@ -31,3 +31,14 @@ https://nvkhabar.com
 ## Note
 
 This repository does not include the source code because the project was developed using a licensed third-party WordPress theme for a live client website.
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/home.png)
+
+### Category Page
+![Category Page](screenshots/category.png)
+
+### Article Page
+![Article Page](screenshots/article.png)
